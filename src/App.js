@@ -28,12 +28,13 @@ function App() {
             </div>
           </div>
         </div>
+
         <div className='bottom'>
           <div className='btm'>
             <div className='input'>
               <input type='text' id='input' placeholder='Enter your message...' />
               <div className='btn'>
-                <button><span><IoIosSend /></span>Send</button>
+                <button><span className='icon'><IoIosSend /></span><span className='send'>Send</span></button>
               </div>
             </div>
           </div>
