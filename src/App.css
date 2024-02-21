@@ -117,13 +117,13 @@
   }
 
   .wrapper .content .bottom .btm .btn button .icon{
-    margin-left: 10px;
-    position: absolute;
-    top: 535px;
+    font-size: 20px;
+    /* position: absolute;
+    top: 530px;
     right: 580px;
-    font-size: 25px;
+    font-size: 25px; */ 
   }
 
   .wrapper .content .bottom .btm .btn button .send {
-    margin-left: 20px;
+    margin-left: 10px;
   }
