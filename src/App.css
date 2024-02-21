@@ -81,10 +81,11 @@
   .wrapper .content .bottom .btm{
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
 
   .wrapper .content .bottom .btm .input input{
-    width: 400px;
+    width: 380px;
     height: 50px;
     padding-left: 36px;
     outline: none;
@@ -99,13 +100,12 @@
   }
 
   .wrapper .content .bottom .btm .btn{
-    margin-top: 20px;
     margin-left: 2px;
   }
 
   .wrapper .content .bottom .btm .btn button {
     width: 100px;
-    height: 50px;
+    height: 45px;
     border: none;
     outline: none;
     border-radius: 5px;
@@ -119,8 +119,8 @@
   .wrapper .content .bottom .btm .btn button .icon{
     margin-left: 10px;
     position: absolute;
-    top: 568px;
-    left: 520px;
+    top: 535px;
+    right: 580px;
     font-size: 25px;
   }
 
